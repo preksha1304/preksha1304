@@ -4,7 +4,7 @@
 - 💞️  I’m eager to collaborate on mini projects
 - 📫  You can reach me at prekshayl13@gmail.com
 - 😄  Pronouns: she/her
-- ⚡  Fun fact: I'm passionate about community service projects and currently serve as the Secretary of the Rotaract Club of Bangalore Revolution.
+  
 
 <!---
 preksha1304/preksha1304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
